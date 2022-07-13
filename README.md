@@ -1,2 +1,2 @@
-# POO_Projeto
- Projeto desenvolvido na materia de programação orientadada a objetos.
+# Projeto final da matéria de programação orientada á objetos.
+
